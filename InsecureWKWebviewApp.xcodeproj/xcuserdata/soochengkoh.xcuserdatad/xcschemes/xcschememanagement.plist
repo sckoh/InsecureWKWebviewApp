@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>InsecureWKWebviewApp (AllowInsecureSSL).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>InsecureWKWebviewApp.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>36E4E98A24DA783500C8BEE9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>36E4E9A024DA783A00C8BEE9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>36E4E9AB24DA783A00C8BEE9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

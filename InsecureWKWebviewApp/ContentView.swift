@@ -7,10 +7,12 @@
 //
 
 import SwiftUI
+import WebKit
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+//        Text("Hello, World!")
+        WebView(request: URLRequest(url: URL(string: "https://fmytrial3.fundsupermart.com.my/m/")!))
     }
 }
 
